@@ -2,4 +2,4 @@
 
 The game is made with bootstrap and jquery. 
 
-The index.js file consists the handling of clicks on the squares (checking if the clicks are correct and handling the exception of the start - where the game starts by pressing any key), the sequencing of the squares, restarting the game when the player is wrong, adding the sounds/animation to the squares. 
+The index.js file consists the handling of clicks on the squares (checking if the clicks are correct and handling the exception of the start - where the game starts by pressing any key), the sequencing of the squares, restarting the game when the player is wrong, adding the sounds/animation to the squares.
